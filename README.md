@@ -3,10 +3,6 @@
 
 ---
 
-![electronics-banner](https://github.com/user-attachments/assets/your-banner-link-here)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvkadav&label=Profile%20Views&color=44d18a&style=flat" alt="atharvkadav" />
 </p>
@@ -63,13 +59,6 @@ Driven Electronics Engineering student passionate about **VLSI design, Embedded 
 - Dr. Homi Bhabha Balvaidnyanik Competition (2017-2018)  
 - Awards in Science Exhibitions, Social Awareness Programs, Skating & Yoga Competitions  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvkadav&show_icons=true&theme=tokyonight&title_color=44d18a&icon_color=44d18a&text_color=ffffff&bg_color=0d1117" width="450"/>
-</p>
 
 ---
 
