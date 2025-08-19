@@ -1,105 +1,84 @@
-<h1 align="center">Hi 👋, I'm Atharv Rajan Kadav</h1>
-<h3 align="center">Electronics & Telecommunication Engineering Student · Circuit & PCB Designer · FPGA Learner</h3>
+<h1 align="center">Hi 👋, I'm Atharv Kadav</h1>
+<h3 align="center">Electronics Engineer · Embedded Systems Enthusiast · Tech Explorer</h3>
+
+---
+
+![electronics-banner](https://github.com/user-attachments/assets/your-banner-link-here)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvkadav&label=Profile%20Views&color=0e75b6&style=flat" alt="atharvkadav" />
+  <img src="https://komarev.com/ghpvc/?username=atharvkadav&label=Profile%20Views&color=44d18a&style=flat" alt="atharvkadav" />
 </p>
 
 ---
 
 ## 💬 Professional Summary
 
-Diploma student in **Electronics & Telecommunication Engineering** with strong foundations in **circuit design, applied electronics, and programming**.  
-Hackathon awardee and certified in **PCB Design, MATLAB, and Verilog (FPGA with Xilinx Vivado)**.  
-Currently exploring **embedded systems, IoT, and VLSI design** with the goal of bridging **hardware and intelligent software**.
+Driven Electronics Engineering student passionate about **VLSI design, Embedded Systems, Signal Processing, and AI applications in electronics**. Skilled in **MATLAB, Verilog, PCB Design, and Circuit Simulation**, with strong problem-solving abilities. Enthusiastic about bridging hardware and software through innovative design.
 
 ---
 
-## 🧠 Skills Snapshot  
+## 🧠 Skills Snapshot
 
-- ⚡ **Programming & Hardware**: C, Verilog, MATLAB, Microcontrollers  
-- 🔌 **Electronics**: Circuits, PCB Design, Measurement Systems, Digital & Analog Electronics  
-- 💻 **Software Tools**: Xilinx Vivado, MATLAB, Microsoft Office, PCB Design Tools  
-- 🎯 **Core Competencies**: Problem Solving, Debugging, Team Collaboration, Research Orientation  
+- ⚡ **Electronics & Hardware**: Circuit Design, PCB Layout, FPGA Programming  
+- 💻 **Programming**: C, C++, Python, Verilog, MATLAB  
+- 🔬 **Tools & Platforms**: Xilinx Vivado, Multisim, LTspice, Arduino, Raspberry Pi  
+- 📊 **Data & Simulation**: MATLAB, Simulink, Proteus  
+- 🛠 **Other**: Git, LaTeX, MS Office, Technical Documentation  
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF5733?style=for-the-badge&logo=verilog&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ff8000?style=for-the-badge&logo=mathworks&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![PCB](https://img.shields.io/badge/PCB%20Design-228B22?style=for-the-badge&logo=pcbsd&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=xilinx&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![LTSpice](https://img.shields.io/badge/LTSpice-brown?style=for-the-badge&logo=analogdevices&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ---
 
-## 📚 Education  
+## 📜 Certifications
 
-- 🎓 **Diploma in Electronics & Telecommunication Engineering**  
-  Vidyalankar Polytechnic, Wadala (2022 – 2025, Pursuing)  
-  - 🥈 Second Runner-up in **Industrial Hackathon**  
-  - Relevant Coursework: C Programming, Digital Systems, Applied Electronics, Electronic Measurements, PCB Design  
-
-- 📘 **SSC (10th)** – Gurunanak English High School, Kalyan (2022) | **77%**  
+- 📘 Crash Course Electronics and PCB Design by Udemy (Jul 2025)  
+- 📘 MATLAB Master Class: Beginner to Expert by Udemy (Jul 2025)  
+- 📘 Verilog for FPGA Engineer with Xilinx Vivado by Udemy (Jul 2025)  
+- ☁️ Elements of AI by Google Cloud Education (Oct 2023)  
+- 🏭 Inventory Management by Hewlett-Packard (HP) (Oct 2022)  
+- 🛰 Overview of Space Science and Technology by ISRO, Dehradun  
+- 💻 MS-CIT by Maharashtra State Certificate in Information Technology  
 
 ---
 
-## 📜 Certifications  
+## 🏆 Achievements
 
-- Crash Course Electronics and PCB Design by Udemy (2025)  
-- MATLAB Master Class: Beginner to Expert by Udemy (2025)  
-- Verilog for FPGA Engineers with Xilinx Vivado by Udemy (2025)  
-- Elements of AI by Google Cloud Education (2023)  
-- Inventory Management by Hewlett-Packard (2022)  
-- Overview of Space Science & Technology by ISRO, Dehradun  
-- MS-CIT (Maharashtra State Certificate in IT)  
 - Chandrayaan-3 Mahaquiz by MyGov (Govt. of India)  
-- Science Olympiad & National Environment Talent Search Certificates  
+- Science & Maths Olympiad – SOF  
+- National Environment Talent Search Examination – MIFEE  
 - Dr. Homi Bhabha Balvaidnyanik Competition (2017-2018)  
+- Awards in Science Exhibitions, Social Awareness Programs, Skating & Yoga Competitions  
 
 ---
 
-## 🏆 Achievements  
-
-- 🥈 Second Runner-up – Industrial Hackathon (Vidyalankar Polytechnic)  
-- 🥇 First Place – Prathama Pariksha (Mahatma Gandhi Rashtrabhasha Prachar Sanstha)  
-- 🥇 First Place – Bhushan Pratiksha (Mahatma Gandhi Rashtrabhasha Prachar Sanstha)  
-- 🎶 Second Place – Tabla Playing (Akhil Bharatiya Gandharva Mahavidyalay Mandal)  
-
----
-
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvkadav&show_icons=true&theme=tokyonight&title_color=00ffb3&icon_color=00ffb3&text_color=ffffff&bg_color=0d1117" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvkadav&show_icons=true&theme=tokyonight&title_color=44d18a&icon_color=44d18a&text_color=ffffff&bg_color=0d1117" width="450"/>
 </p>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvkadav&theme=onedark&title=Commits,Repositories,Followers,Stars&margin-w=15&margin-h=15&no-frame=true&row=1" alt="github trophies" />
-</p>
-
----
-
-## 🌱 Currently Exploring  
-
-- FPGA Design with Verilog (Xilinx Vivado)  
-- Embedded Systems and IoT Applications  
-- Advanced PCB Design Techniques  
-- Signal Processing in MATLAB  
 
 ---
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/atharvkadav)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:atharvkadav7@gmail.com)  
+- **Email**: atharvkadav@gmail.com  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:atharvkadav@gmail.com)  
+
+- **LinkedIn**: [linkedin.com/in/atharvkadav](https://www.linkedin.com/in/atharvkadav)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-44d18a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvkadav)  
 
 ---
